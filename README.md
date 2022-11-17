@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KennethQuinlat
+- 👋 Hi, I’m @Kenneth Quinlat
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Java,C++,JavaScript,CSS,HTML
 - 💞️ I’m looking to collaborate on anyone
